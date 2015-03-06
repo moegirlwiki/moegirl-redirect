@@ -102,7 +102,8 @@ if (!($is_iOS||$is_Android)) {
 <?php if ($is_WP) { ?>
 	<p><a href="http://www.windowsphone.com/zh-cn/store/app/%E8%90%8C%E5%A8%98%E7%99%BE%E7%A7%91/194aa2ab-f4e3-4762-9f88-6edf23cdc50d" target="_blank">下载WindowsPhone客户端</a></p>
 <?php } ?>
-	<p><a href="http://zh.moegirl.org/<?php echo $target;?>" target="_blank">网页直接浏览</a></p>
+	<p><a href="http://m.moegirl.org/<?php echo $target;?>" target="_blank">访问手机版萌娘百科</a></p>
+	<p><a href="http://zh.moegirl.org/<?php echo $target;?>" target="_blank">访问电脑版萌娘百科</a></p>
 </div>
 <img src="source/moegirl.gif" id="welcomeimg" />
 </body>
