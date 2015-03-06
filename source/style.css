@@ -1,0 +1,71 @@
+/*初始化*/
+body{
+	background: #F8FCFF;
+	text-align:center;
+	font-family: 'Microsoft YaHei', 'Lucida Grande', Helvetica, Arial, 'STHeiti Light';
+}
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, code, em, img, q, small, strong, dd, dl, dt, li, ol, ul, fieldset, form, label, table, tbody, tr, th, td, input{
+	font-family: 'Microsoft YaHei', 'Lucida Grande', Helvetica, Arial, 'STHeiti Light';
+}
+
+p{
+    line-height: 17px;
+}
+
+a:hover, a{
+    text-decoration: none;
+    color: #232323;
+}
+
+/*定义*/
+div#mainbtn {
+	background-color: #78D186;
+	border-radius: 5px;
+	height: 80px;
+	overflow: hidden;
+}
+
+
+.subtitle {
+	float: left;
+	margin-left: 10px;
+	margin-top: 8px;
+	font-size: 0.9em;
+}
+
+.title {
+	float: left;
+	clear: both;
+	width: 100%;
+	font-weight: bolder;
+	font-size: 2em;
+	color: #FFFFD0;
+	line-height: 1.1em;
+}
+
+
+img#welcomeimg {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	z-index: -1000;
+	max-height: 50%;
+}
+
+#otherinfo{
+	text-shadow: 1px 1px #FFFFFF;
+	font-weight: bolder;
+}
+
+div#forWeChat {
+	border: 1px red solid;
+	margin-bottom: 10px;
+	border-radius: 4px;
+	font-size: 0.8em;
+	background: #F8FCFF;
+}
+
+#forWeChat p {
+	margin: 5px;
+}
