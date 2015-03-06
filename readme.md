@@ -8,3 +8,4 @@ Moegirl redirect
 示范地址： 
 
 https://masterchan.me/link/?target= + 条目名称
+https://masterchan.me/link/?target=%e8%88%b0%e9%98%9fCollection
