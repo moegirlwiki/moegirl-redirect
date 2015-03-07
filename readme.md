@@ -7,6 +7,6 @@ Moegirl redirect
 
 示范地址： 
 
-http://zh.moegirl.org/redirect?target= + 条目名称
+http://acg.moe?target= + 条目名称
 
-http://zh.moegirl.org/redirect?target=%e8%88%b0%e9%98%9fCollection
+http://acg.moe?target=%e8%88%b0%e9%98%9fCollection
